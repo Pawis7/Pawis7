@@ -6,11 +6,11 @@
 
 <h2 align="center">🛠️ My Skills</h2>
 <div align="center">
-  <p><strong>Lenguajes y Bases de Datos</strong></p>
+  <h1><strong>Lenguajes y Bases de Datos</strong></h1>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,cpp,rust,nodejs,mongodb,postgres" alt="Languages & DBs" />
-  <p><strong>Frameworks y Librerías</strong></p>
+  <h1><strong>Frameworks y Librerías</strong></h1>
   <img src="https://skillicons.dev/icons?i=react,angular,nextjs,nestjs,tailwind,fastapi,prisma,vite" alt="Frameworks & Libs" />
-  <p><strong>Herramientas y DevOps</strong></p>
+  <h1><strong>Herramientas y DevOps</strong></h1>
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,linux,cloudflare,cmake,postman,npm" alt="Tools & DevOps" />
 </div>
 
