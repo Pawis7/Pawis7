@@ -1,8 +1,3 @@
-<h1 align="center">⚡ Stats</h1>
-<div align="center">
-	  <img src="https://github-readme-stats.vercel.app/api?username=pawis7&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawis7&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"  />
-</div>
 
 <h1 align="center">🛠️ My Skills</h1>
 <div align="center">
