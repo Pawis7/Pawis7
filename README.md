@@ -1,5 +1,5 @@
 
-<h1 align="center">🛠️ My Skills</h1>
+<h1 align="center">My Skills</h1>
 <div align="center">
   <h3><strong>Languages and Databases</strong></h3>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,cpp,rust,nodejs,mongodb,postgres" alt="Languages & DBs" />
