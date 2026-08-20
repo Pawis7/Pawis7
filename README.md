@@ -9,7 +9,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,linux,cloudflare,cmake,postman,npm" alt="Tools & DevOps" />
 </div>
 
-<h1  align="center">📝 Notes</h1>
+<h1  align="center">Notes</h1>
 
 - I usually don't know what to code
 - I like to learn a lot of things just for fun but I never use it
